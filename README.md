@@ -4,7 +4,10 @@
 - 🌱 Atualmente estou aprendendo **Python e C#**
 
 <h3 align="left">Conecte comigo:</h3>
-<a href="www.linkedin.com/in/alexgabrielce" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:alexgabriel.trab@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div>
+<a href="https://www.linkedin.com/in/alexgabrielce" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:alexgabriel.trab@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 <h3>Ferramentas e Tecnologias:</h3>
 
