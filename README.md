@@ -8,7 +8,7 @@
 - 📄 Sobre minhas experiências [www.linkedin.com/in/alexgabrielce](www.linkedin.com/in/alexgabrielce)
 
 <h3 align="left">Conecte comigo:</h3>
-<a href="www.linkedin.com/in/alexgabrielce" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/alexgabrielce" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:alexgabriel.trab@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <h3 align="left">Ferramentas e Tecnologias:</h3>
 
