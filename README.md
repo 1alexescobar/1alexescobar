@@ -16,8 +16,9 @@
 <img loading="lazy" alt="C-alex" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=50 heigth=50 /> 
 <img loading="lazy" alt="C#-alex" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=50 height=50 />
 <img loading="lazy" alt="python-alex" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=50 height=50 />
+<img loading="lazy" alt="visualcode-alex" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=50 height=50 />
 </div>
-
+          
 <div>
 <a href="https://github.com/1alexescobar">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1alexescobar&layout=compact&langs_count=7&theme=dracula"/>
