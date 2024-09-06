@@ -10,14 +10,23 @@
 </div>
 
 <h3>Ferramentas e Tecnologias:</h3>
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width=50 height=50 /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width=50 height=50 /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=50 heigth=50 /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=50 height=50 /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=50 height=50/>
+<div>
+<img loading="lazy" alt="arduino-alex" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width=50 height=50 />
+<img loading="lazy" alt="blender-alex" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width=50 height=50 />
+<img loading="lazy" alt="C-alex" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=50 heigth=50 /> 
+<img loading="lazy" alt="C#-alex" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=50 height=50 />
+<img loading="lazy" alt="python-alex" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=50 height=50 />
+</div>
 
 <div>
 <a href="https://github.com/1alexescobar">
-<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1alexescobar&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=1alexescobar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1alexescobar&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=1alexescobar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+<!---
+<img align="right" alt="grompinho" src="https://images.app.goo.gl/z5adTjy79HJnUHni8" width=100 height=100 />
+--->
 
 <!---
 - 👋 Oi, Eu sou o Alex Gabriel @1alexescobar
