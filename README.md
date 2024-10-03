@@ -12,7 +12,6 @@
 <h3>Ferramentas e Tecnologias:</h3>
 <div>
 <img loading="lazy" alt="arduino-alex" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width=50 height=50 />
-<img loading="lazy" alt="blender-alex" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width=50 height=50 />
 <img loading="lazy" alt="C-alex" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=50 heigth=50 /> 
 <img loading="lazy" alt="C#-alex" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=50 height=50 />
 <img loading="lazy" alt="python-alex" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=50 height=50 />
